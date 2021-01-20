@@ -1,3 +1,3 @@
-#Two same standalone project 
+# Two same standalone project 
 first with firebase
 Second with mern
