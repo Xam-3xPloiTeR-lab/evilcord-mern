@@ -1,0 +1,29 @@
+.login__logo > img {
+  width: 400px;
+  height: 400px;
+}
+.login {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  width: 100vh;
+  margin-left: 13em;
+}
+.login > button {
+  width: 300px;
+  background-color: #738adb;
+  font-weight: 800;
+}
+.login > button:hover {
+  background-color: #262e49;
+  color: white;
+}
+.msg {
+  font-weight: 100;
+  border-radius: 10px;
+  border-bottom: black solid;
+  border-left: #738adb solid;
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
